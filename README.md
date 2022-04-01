@@ -1,2 +1,2 @@
 # springBootProject
-# this is a spring boot project for practice purposes
+# spring boot project 2021
